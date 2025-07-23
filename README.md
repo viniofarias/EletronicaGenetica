@@ -1,4 +1,4 @@
-﻿🧬 Otimizador de Circuitos com Algoritmo Genético (EletronicaGenetica)
+🧬 Otimizador de Circuitos com Algoritmo Genético (EletronicaGenetica)
 Este projeto utiliza um Algoritmo Genético (AG) implementado em C# .NET para resolver um problema complexo de otimização de múltiplos objetivos: o design de um circuito eletrônico para um novo dispositivo portátil.
 
 O objetivo é encontrar a configuração de componentes ideal que minimize simultaneamente o Custo, o Consumo de Energia e o Tamanho da placa, ao mesmo tempo que cumpre um conjunto de restrições funcionais para garantir que o circuito seja viável na prática.
