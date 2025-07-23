@@ -32,7 +32,7 @@
             List<Circuito> populacao = CriarPopulacaoInicial();
             Circuito melhorSolucaoGeral = null;
 
-            Console.WriteLine("Iniciando processo evolutivo....");
+            Console.WriteLine("Iniciando processo evolutivo...");
 
             for (int geracao = 0; geracao < NumeroGeracoes; geracao++)
             {
